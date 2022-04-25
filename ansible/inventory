@@ -1,0 +1,2 @@
+[all]
+server	ansible_host=192.168.229.131
